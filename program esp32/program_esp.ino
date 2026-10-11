@@ -22,7 +22,7 @@
 #include <DHT.h>
 #include <Preferences.h>
 
-// ====== UBAH SESUAI WiFi RUMAH / KAMPUS ======
+// ====== UBAH SESUAI WiFi RUMAH ======
 const char *WIFI_SSID = "NAMA_WIFI";
 const char *WIFI_PASSWORD = "PASSWORD_WIFI";
 
